@@ -77,7 +77,5 @@ Monthly sales trends help identify seasonal peaks.
 PostgreSQL 17
 
 pgAdmin 4
-
-
 This project improved my understanding of SQL query writing, joins, views, indexing, and performance optimization.
 It also enhanced my skills in turning raw database outputs into business insights through visual dashboards.
